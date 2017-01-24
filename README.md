@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # linear_regression_demo
 This is the code for "How to Make a Prediction - Intro to Deep Learning #1' by Siraj Raval on YouTube
 
@@ -28,3 +29,7 @@ The challenge for this video is to use scikit-learn to create a line of best fit
 
 The credits for the original code go to [gcrowder](https://github.com/gcrowder). I've merely created a wrapper to get people started.
 
+=======
+# linear_regression_challenge
+Week coding challenge from How to Make a Prediction - Intro to Deep Learning #1
+>>>>>>> 809a6d4f14dec5d391d0f1bbf554ede7fd30c2bf
